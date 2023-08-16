@@ -1,2 +1,3 @@
 # Prepcourse-Henry
-este es un repositorio de prueba de prepcourse henry
+Esta es una prueba para confirmar mis conocimientos para crear y clonar un commit
+
